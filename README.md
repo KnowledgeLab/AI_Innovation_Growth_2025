@@ -1,6 +1,6 @@
-# THE UNIVERSITY OF CHICAGO
+## THE UNIVERSITY OF CHICAGO
 
-## Artificial Intelligence, Innovation, and Growth 
+# Artificial Intelligence, Innovation, and Growth 
 
 ECONOMICS 23050/33050, SOCIOLOGY 20620/30620, DATA 20620, MCSS 33050
 
